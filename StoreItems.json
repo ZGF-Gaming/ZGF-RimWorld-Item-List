@@ -11765,7 +11765,547 @@
 		"price": 83,
 		"category": "Drugs",
 		"defname": "SkavenAgePowder"
+	},
+	{
+		"abr": "5.11tactecbodyarmor(contractor)",
+		"price": 400,
+		"category": "Body armor",
+		"defname": "RNApparel_511TacTec_Contractor"
+	},
+	{
+		"abr": "ammocanstool",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "CP_AmmoStool"
+	},
+	{
+		"abr": "ammocratetable(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "CP_AmmoCrateTable1x2c"
+	},
+	{
+		"abr": "armchaircommander",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "CP_ArmchairCommander"
+	},
+	{
+		"abr": "balaclava(pmc)",
+		"price": 124,
+		"category": "Masks",
+		"defname": "RNApparel_Balaclava_PMCBali"
+	},
+	{
+		"abr": "blackhatstation",
+		"price": 750,
+		"category": "Production",
+		"defname": "CP_BlackHatStation"
+	},
+	{
+		"abr": "chairforce",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "CP_ChairforceChair"
+	},
+	{
+		"abr": "chewysweets(harrybos)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Sweets_Harrybos"
+	},
+	{
+		"abr": "chocolate(dailymilk)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Chocolate_DailyMilk"
+	},
+	{
+		"abr": "combatuniforma-tacsfg",
+		"price": 332,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_ATACSFG"
+	},
+	{
+		"abr": "coverallsolivehrt",
+		"price": 550,
+		"category": "Combat uniform",
+		"defname": "RNApparel_combats_SmockHRT"
+	},
+	{
+		"abr": "doublemilitarycotbed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "CP_DoubleMilitaryCotBed"
+	},
+	{
+		"abr": "doublesleepingbags",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "CP_DoubleCamoBedroll"
+	},
+	{
+		"abr": "dualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "energybar(ricekrispies)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_EnergyBar_RiceKrispies"
+	},
+	{
+		"abr": "fasthelmethrt",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_FASTHelmet_HRT"
+	},
+	{
+		"abr": "foldingcanvaschair",
+		"price": 148,
+		"category": "Furniture",
+		"defname": "CP_CanvasChair"
+	},
+	{
+		"abr": "footlocker",
+		"price": 168,
+		"category": "Furniture",
+		"defname": "CP_FootlockerSmall"
+	},
+	{
+		"abr": "g36chrt",
+		"price": 800,
+		"category": "Assault rifle",
+		"defname": "RNGun_G36CHRT"
+	},
+	{
+		"abr": "hk417hrt",
+		"price": 425,
+		"category": "DMR",
+		"defname": "RNGun_HK417HRTDMR"
+	},
+	{
+		"abr": "hobostew",
+		"price": 25,
+		"category": "Meals",
+		"defname": "CP_HoboStew"
+	},
+	{
+		"abr": "ifak",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "RNMedicine_IFAK_Multicam"
+	},
+	{
+		"abr": "instrumenttable",
+		"price": 367,
+		"category": "Misc",
+		"defname": "CP_InstrumentTable"
+	},
+	{
+		"abr": "ivsupport",
+		"price": 450,
+		"category": "Misc",
+		"defname": "CP_IVSupport"
+	},
+	{
+		"abr": "locker(2x1)",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "CP_Locker"
+	},
+	{
+		"abr": "lockers(2x2)",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "CP_Lockers"
+	},
+	{
+		"abr": "m24a2hrt",
+		"price": 883,
+		"category": "Bolt action",
+		"defname": "RNGun_M24A2HRTSn"
+	},
+	{
+		"abr": "m4a1hrt",
+		"price": 800,
+		"category": "AR style rifle",
+		"defname": "RNGun_M4A1HRT"
+	},
+	{
+		"abr": "mailboxtradebeacon",
+		"price": 68,
+		"category": "Misc",
+		"defname": "CP_MailboxTradeBeacon"
+	},
+	{
+		"abr": "maxibreakfast",
+		"price": 67,
+		"category": "Meals",
+		"defname": "Maxi_Breakfast"
+	},
+	{
+		"abr": "maxiburger",
+		"price": 33,
+		"category": "Meals",
+		"defname": "Maxi_Burger"
+	},
+	{
+		"abr": "maxifries",
+		"price": 33,
+		"category": "Meals",
+		"defname": "Maxi_Fries"
+	},
+	{
+		"abr": "maximeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "Maxi_Meal"
+	},
+	{
+		"abr": "maxisalad",
+		"price": 67,
+		"category": "Meals",
+		"defname": "Maxi_Salad"
+	},
+	{
+		"abr": "maxi-cola",
+		"price": 833,
+		"category": "Drugs",
+		"defname": "CP_MaxiCola"
+	},
+	{
+		"abr": "medicbag",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "RNMedicine_MedicBag"
+	},
+	{
+		"abr": "medicalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "CP_MedicalBed"
+	},
+	{
+		"abr": "medicalstretcher",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "CP_MedicalStretcher"
+	},
+	{
+		"abr": "medicalventilator",
+		"price": 800,
+		"category": "Misc",
+		"defname": "CP_MedicalVentilator"
+	},
+	{
+		"abr": "militarycotbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "CP_MilitaryCotBed"
+	},
+	{
+		"abr": "militarycrate(2x2)",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "CP_MilitaryCrate"
+	},
+	{
+		"abr": "militaryradio",
+		"price": 608,
+		"category": "Misc",
+		"defname": "MilitaryRadioRC"
+	},
+	{
+		"abr": "minifloodlight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "CP_FloodlightSmall"
+	},
+	{
+		"abr": "missionboard",
+		"price": 375,
+		"category": "Special",
+		"defname": "MissionBoardRC"
+	},
+	{
+		"abr": "mp5a2hrt",
+		"price": 417,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A2SDHRT_PDW"
+	},
+	{
+		"abr": "mrebritish",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_British"
+	},
+	{
+		"abr": "mrecanadian",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Canadian"
+	},
+	{
+		"abr": "mreration",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Civilian"
+	},
+	{
+		"abr": "mrerussian",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Russian"
+	},
+	{
+		"abr": "mreusarmy",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_USArmy"
+	},
+	{
+		"abr": "mreusmc",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_USMC"
+	},
+	{
+		"abr": "nuka-cola",
+		"price": 88,
+		"category": "Drugs",
+		"defname": "CP_NukaCola"
+	},
+	{
+		"abr": "nuka-colaquantum",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "CP_NukaColaQuantum"
+	},
+	{
+		"abr": "officelamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLamp"
+	},
+	{
+		"abr": "officelamp(blue)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampBlue"
+	},
+	{
+		"abr": "officelamp(green)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampGreen"
+	},
+	{
+		"abr": "officelamp(orange)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampOrange"
+	},
+	{
+		"abr": "officelamp(purple)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampPurple"
+	},
+	{
+		"abr": "officelamp(red)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampRed"
+	},
+	{
+		"abr": "officelamp(yellow)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CP_OfficeLampYellow"
+	},
+	{
+		"abr": "parkaa-tacsfg",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka_ATACSFG"
+	},
+	{
+		"abr": "pccommsdesk",
+		"price": 483,
+		"category": "Misc",
+		"defname": "CP_PCCommsStation"
+	},
+	{
+		"abr": "planningtable(1x2)",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "CP_PlanningTable1x2c"
+	},
+	{
+		"abr": "pointblankbodyarmor(fbi)",
+		"price": 400,
+		"category": "Body armor",
+		"defname": "RNApparel_PointBlank_FBI"
+	},
+	{
+		"abr": "portablechemfuelgenerator",
+		"price": 301,
+		"category": "Misc",
+		"defname": "PortableDieselGenerator"
+	},
+	{
+		"abr": "portablestove",
+		"price": 49,
+		"category": "Misc",
+		"defname": "CP_PortableStove"
+	},
+	{
+		"abr": "potatochips(cheeseandonion)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Chips_CheeseAndOnion"
+	},
+	{
+		"abr": "potatochips(readysalted)",
+		"price": 5,
+		"category": "Foods",
+		"defname": "CP_Chips_Salted"
+	},
+	{
+		"abr": "pta-bravohelmetolive",
+		"price": 450,
+		"category": "Helmets",
+		"defname": "RNApparel_PTABravoHelmet_ANVIL"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "radio(fallout)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_FalloutRadio"
+	},
+	{
+		"abr": "radio(portal)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_PortalRadio"
+	},
+	{
+		"abr": "radio(stalker)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_STALKERRadio"
+	},
+	{
+		"abr": "radio(tacticool)",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "RedHorse_TacticoolRadio"
+	},
+	{
+		"abr": "recruitmentboard",
+		"price": 375,
+		"category": "Special",
+		"defname": "RecruitmentBoardRC"
+	},
+	{
+		"abr": "redphone",
+		"price": 425,
+		"category": "Misc",
+		"defname": "RedPhoneRC"
+	},
+	{
+		"abr": "remington870hrt",
+		"price": 425,
+		"category": "Shotgun",
+		"defname": "RNGun_Remington870HRT"
+	},
+	{
+		"abr": "servertower",
+		"price": 269,
+		"category": "Misc",
+		"defname": "CP_ServerTower"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "sleepingbagm81",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "CP_M81Bedroll"
+	},
+	{
+		"abr": "sleepingbagmulticam",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "CP_M81MulticamBedroll"
+	},
+	{
+		"abr": "survivalistbed",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "CP_SurvivalistBed"
+	},
+	{
+		"abr": "ultrasoundmachine",
+		"price": 433,
+		"category": "Misc",
+		"defname": "CP_UltrasoundMachine"
+	},
+	{
+		"abr": "ump45hrt",
+		"price": 433,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45HRT_PDW"
+	},
+	{
+		"abr": "vitalsignsmonitor",
+		"price": 206,
+		"category": "Misc",
+		"defname": "CP_VitalSigns"
+	},
+	{
+		"abr": "vrtrainer(arcadeii)",
+		"price": 5000,
+		"category": "Misc",
+		"defname": "RNVRTraining_II"
+	},
+	{
+		"abr": "vrtrainer(arcade)",
+		"price": 5000,
+		"category": "Misc",
+		"defname": "RNVRTraining"
+	},
+	{
+		"abr": "vrtrainer(arpeturescience)",
+		"price": 8333,
+		"category": "Misc",
+		"defname": "RNVRTraining_Portal"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
 	}
 	],
-	"total": 4697
+	"total": 4787
 }
